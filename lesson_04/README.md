@@ -196,3 +196,7 @@ lesson_04/
 ├── plan-4-bez.json   ← Q2 без индекса (COLLSCAN)
 └── plan-4.json       ← Q2 с {level,duration_ms} (оптимально)
 ```
+
+
+---
+*Выполнено в рамках курса Data Platform, Урок 4.*
